@@ -904,35 +904,35 @@ Based on the following sources:
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C4" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS2" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS0" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC6" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C6" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS4" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS1" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC8" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C8" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS6" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS2" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC10" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C10" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS8" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS3" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC5" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C5" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS3" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS4" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC7" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
@@ -946,14 +946,14 @@ Based on the following sources:
 <part name="GND21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C11" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS9" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS6" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="IC13" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4051" device="D" package3d_urn="urn:adsk.eagle:package:821/2"/>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C14" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
 <part name="P+26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="POTS11" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="POTS7" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="DATA_CHAIN" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
@@ -972,7 +972,9 @@ Based on the following sources:
 TODO: Must inhibit and reset be buffered?
 What is max fanout?
 
-Probably just ground inhibit at least.</text>
+Probably just ground inhibit at least.
+
+TODO: Silk + screw holes</text>
 </plain>
 <instances>
 <instance part="DATA" gate="-1" x="149.86" y="66.04" smashed="yes">
@@ -1064,34 +1066,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+2" gate="1" x="73.66" y="-12.7" smashed="yes">
 <attribute name="VALUE" x="76.2" y="-10.16" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-1" x="2.54" y="-2.54" smashed="yes">
+<instance part="POTS0" gate="-1" x="2.54" y="-2.54" smashed="yes">
 <attribute name="NAME" x="1.27" y="-1.651" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-2" x="2.54" y="-5.08" smashed="yes">
+<instance part="POTS0" gate="-2" x="2.54" y="-5.08" smashed="yes">
 <attribute name="NAME" x="1.27" y="-4.191" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-3" x="2.54" y="-7.62" smashed="yes">
+<instance part="POTS0" gate="-3" x="2.54" y="-7.62" smashed="yes">
 <attribute name="NAME" x="1.27" y="-6.731" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-4" x="2.54" y="-10.16" smashed="yes">
+<instance part="POTS0" gate="-4" x="2.54" y="-10.16" smashed="yes">
 <attribute name="NAME" x="1.27" y="-9.271" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-5" x="2.54" y="-12.7" smashed="yes">
+<instance part="POTS0" gate="-5" x="2.54" y="-12.7" smashed="yes">
 <attribute name="NAME" x="1.27" y="-11.811" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-6" x="2.54" y="-15.24" smashed="yes">
+<instance part="POTS0" gate="-6" x="2.54" y="-15.24" smashed="yes">
 <attribute name="NAME" x="1.27" y="-14.351" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-7" x="2.54" y="-17.78" smashed="yes">
+<instance part="POTS0" gate="-7" x="2.54" y="-17.78" smashed="yes">
 <attribute name="NAME" x="1.27" y="-16.891" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-8" x="2.54" y="-20.32" smashed="yes">
+<instance part="POTS0" gate="-8" x="2.54" y="-20.32" smashed="yes">
 <attribute name="NAME" x="1.27" y="-19.431" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-9" x="2.54" y="-22.86" smashed="yes">
+<instance part="POTS0" gate="-9" x="2.54" y="-22.86" smashed="yes">
 <attribute name="NAME" x="1.27" y="-21.971" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS2" gate="-10" x="2.54" y="-25.4" smashed="yes">
+<instance part="POTS0" gate="-10" x="2.54" y="-25.4" smashed="yes">
 <attribute name="NAME" x="1.27" y="-24.511" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND7" gate="1" x="7.62" y="-27.94" smashed="yes">
@@ -1117,34 +1119,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+12" gate="1" x="73.66" y="-55.88" smashed="yes">
 <attribute name="VALUE" x="76.2" y="-53.34" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-1" x="2.54" y="-45.72" smashed="yes">
+<instance part="POTS1" gate="-1" x="2.54" y="-45.72" smashed="yes">
 <attribute name="NAME" x="1.27" y="-44.831" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-2" x="2.54" y="-48.26" smashed="yes">
+<instance part="POTS1" gate="-2" x="2.54" y="-48.26" smashed="yes">
 <attribute name="NAME" x="1.27" y="-47.371" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-3" x="2.54" y="-50.8" smashed="yes">
+<instance part="POTS1" gate="-3" x="2.54" y="-50.8" smashed="yes">
 <attribute name="NAME" x="1.27" y="-49.911" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-4" x="2.54" y="-53.34" smashed="yes">
+<instance part="POTS1" gate="-4" x="2.54" y="-53.34" smashed="yes">
 <attribute name="NAME" x="1.27" y="-52.451" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-5" x="2.54" y="-55.88" smashed="yes">
+<instance part="POTS1" gate="-5" x="2.54" y="-55.88" smashed="yes">
 <attribute name="NAME" x="1.27" y="-54.991" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-6" x="2.54" y="-58.42" smashed="yes">
+<instance part="POTS1" gate="-6" x="2.54" y="-58.42" smashed="yes">
 <attribute name="NAME" x="1.27" y="-57.531" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-7" x="2.54" y="-60.96" smashed="yes">
+<instance part="POTS1" gate="-7" x="2.54" y="-60.96" smashed="yes">
 <attribute name="NAME" x="1.27" y="-60.071" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-8" x="2.54" y="-63.5" smashed="yes">
+<instance part="POTS1" gate="-8" x="2.54" y="-63.5" smashed="yes">
 <attribute name="NAME" x="1.27" y="-62.611" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-9" x="2.54" y="-66.04" smashed="yes">
+<instance part="POTS1" gate="-9" x="2.54" y="-66.04" smashed="yes">
 <attribute name="NAME" x="1.27" y="-65.151" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS4" gate="-10" x="2.54" y="-68.58" smashed="yes">
+<instance part="POTS1" gate="-10" x="2.54" y="-68.58" smashed="yes">
 <attribute name="NAME" x="1.27" y="-67.691" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND11" gate="1" x="7.62" y="-71.12" smashed="yes">
@@ -1170,34 +1172,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+16" gate="1" x="73.66" y="-99.06" smashed="yes">
 <attribute name="VALUE" x="76.2" y="-96.52" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-1" x="2.54" y="-88.9" smashed="yes">
+<instance part="POTS2" gate="-1" x="2.54" y="-88.9" smashed="yes">
 <attribute name="NAME" x="1.27" y="-88.011" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-2" x="2.54" y="-91.44" smashed="yes">
+<instance part="POTS2" gate="-2" x="2.54" y="-91.44" smashed="yes">
 <attribute name="NAME" x="1.27" y="-90.551" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-3" x="2.54" y="-93.98" smashed="yes">
+<instance part="POTS2" gate="-3" x="2.54" y="-93.98" smashed="yes">
 <attribute name="NAME" x="1.27" y="-93.091" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-4" x="2.54" y="-96.52" smashed="yes">
+<instance part="POTS2" gate="-4" x="2.54" y="-96.52" smashed="yes">
 <attribute name="NAME" x="1.27" y="-95.631" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-5" x="2.54" y="-99.06" smashed="yes">
+<instance part="POTS2" gate="-5" x="2.54" y="-99.06" smashed="yes">
 <attribute name="NAME" x="1.27" y="-98.171" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-6" x="2.54" y="-101.6" smashed="yes">
+<instance part="POTS2" gate="-6" x="2.54" y="-101.6" smashed="yes">
 <attribute name="NAME" x="1.27" y="-100.711" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-7" x="2.54" y="-104.14" smashed="yes">
+<instance part="POTS2" gate="-7" x="2.54" y="-104.14" smashed="yes">
 <attribute name="NAME" x="1.27" y="-103.251" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-8" x="2.54" y="-106.68" smashed="yes">
+<instance part="POTS2" gate="-8" x="2.54" y="-106.68" smashed="yes">
 <attribute name="NAME" x="1.27" y="-105.791" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-9" x="2.54" y="-109.22" smashed="yes">
+<instance part="POTS2" gate="-9" x="2.54" y="-109.22" smashed="yes">
 <attribute name="NAME" x="1.27" y="-108.331" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS6" gate="-10" x="2.54" y="-111.76" smashed="yes">
+<instance part="POTS2" gate="-10" x="2.54" y="-111.76" smashed="yes">
 <attribute name="NAME" x="1.27" y="-110.871" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND16" gate="1" x="7.62" y="-114.3" smashed="yes">
@@ -1223,34 +1225,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+20" gate="1" x="73.66" y="-142.24" smashed="yes">
 <attribute name="VALUE" x="76.2" y="-139.7" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-1" x="2.54" y="-132.08" smashed="yes">
+<instance part="POTS3" gate="-1" x="2.54" y="-132.08" smashed="yes">
 <attribute name="NAME" x="1.27" y="-131.191" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-2" x="2.54" y="-134.62" smashed="yes">
+<instance part="POTS3" gate="-2" x="2.54" y="-134.62" smashed="yes">
 <attribute name="NAME" x="1.27" y="-133.731" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-3" x="2.54" y="-137.16" smashed="yes">
+<instance part="POTS3" gate="-3" x="2.54" y="-137.16" smashed="yes">
 <attribute name="NAME" x="1.27" y="-136.271" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-4" x="2.54" y="-139.7" smashed="yes">
+<instance part="POTS3" gate="-4" x="2.54" y="-139.7" smashed="yes">
 <attribute name="NAME" x="1.27" y="-138.811" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-5" x="2.54" y="-142.24" smashed="yes">
+<instance part="POTS3" gate="-5" x="2.54" y="-142.24" smashed="yes">
 <attribute name="NAME" x="1.27" y="-141.351" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-6" x="2.54" y="-144.78" smashed="yes">
+<instance part="POTS3" gate="-6" x="2.54" y="-144.78" smashed="yes">
 <attribute name="NAME" x="1.27" y="-143.891" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-7" x="2.54" y="-147.32" smashed="yes">
+<instance part="POTS3" gate="-7" x="2.54" y="-147.32" smashed="yes">
 <attribute name="NAME" x="1.27" y="-146.431" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-8" x="2.54" y="-149.86" smashed="yes">
+<instance part="POTS3" gate="-8" x="2.54" y="-149.86" smashed="yes">
 <attribute name="NAME" x="1.27" y="-148.971" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-9" x="2.54" y="-152.4" smashed="yes">
+<instance part="POTS3" gate="-9" x="2.54" y="-152.4" smashed="yes">
 <attribute name="NAME" x="1.27" y="-151.511" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS8" gate="-10" x="2.54" y="-154.94" smashed="yes">
+<instance part="POTS3" gate="-10" x="2.54" y="-154.94" smashed="yes">
 <attribute name="NAME" x="1.27" y="-154.051" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND20" gate="1" x="7.62" y="-157.48" smashed="yes">
@@ -1276,34 +1278,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+9" gate="1" x="167.64" y="-12.7" smashed="yes">
 <attribute name="VALUE" x="170.18" y="-10.16" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-1" x="96.52" y="-2.54" smashed="yes">
+<instance part="POTS4" gate="-1" x="96.52" y="-2.54" smashed="yes">
 <attribute name="NAME" x="95.25" y="-1.651" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-2" x="96.52" y="-5.08" smashed="yes">
+<instance part="POTS4" gate="-2" x="96.52" y="-5.08" smashed="yes">
 <attribute name="NAME" x="95.25" y="-4.191" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-3" x="96.52" y="-7.62" smashed="yes">
+<instance part="POTS4" gate="-3" x="96.52" y="-7.62" smashed="yes">
 <attribute name="NAME" x="95.25" y="-6.731" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-4" x="96.52" y="-10.16" smashed="yes">
+<instance part="POTS4" gate="-4" x="96.52" y="-10.16" smashed="yes">
 <attribute name="NAME" x="95.25" y="-9.271" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-5" x="96.52" y="-12.7" smashed="yes">
+<instance part="POTS4" gate="-5" x="96.52" y="-12.7" smashed="yes">
 <attribute name="NAME" x="95.25" y="-11.811" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-6" x="96.52" y="-15.24" smashed="yes">
+<instance part="POTS4" gate="-6" x="96.52" y="-15.24" smashed="yes">
 <attribute name="NAME" x="95.25" y="-14.351" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-7" x="96.52" y="-17.78" smashed="yes">
+<instance part="POTS4" gate="-7" x="96.52" y="-17.78" smashed="yes">
 <attribute name="NAME" x="95.25" y="-16.891" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-8" x="96.52" y="-20.32" smashed="yes">
+<instance part="POTS4" gate="-8" x="96.52" y="-20.32" smashed="yes">
 <attribute name="NAME" x="95.25" y="-19.431" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-9" x="96.52" y="-22.86" smashed="yes">
+<instance part="POTS4" gate="-9" x="96.52" y="-22.86" smashed="yes">
 <attribute name="NAME" x="95.25" y="-21.971" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS3" gate="-10" x="96.52" y="-25.4" smashed="yes">
+<instance part="POTS4" gate="-10" x="96.52" y="-25.4" smashed="yes">
 <attribute name="NAME" x="95.25" y="-24.511" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND9" gate="1" x="101.6" y="-27.94" smashed="yes">
@@ -1382,34 +1384,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+22" gate="1" x="167.64" y="-99.06" smashed="yes">
 <attribute name="VALUE" x="170.18" y="-96.52" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-1" x="96.52" y="-88.9" smashed="yes">
+<instance part="POTS6" gate="-1" x="96.52" y="-88.9" smashed="yes">
 <attribute name="NAME" x="95.25" y="-88.011" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-2" x="96.52" y="-91.44" smashed="yes">
+<instance part="POTS6" gate="-2" x="96.52" y="-91.44" smashed="yes">
 <attribute name="NAME" x="95.25" y="-90.551" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-3" x="96.52" y="-93.98" smashed="yes">
+<instance part="POTS6" gate="-3" x="96.52" y="-93.98" smashed="yes">
 <attribute name="NAME" x="95.25" y="-93.091" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-4" x="96.52" y="-96.52" smashed="yes">
+<instance part="POTS6" gate="-4" x="96.52" y="-96.52" smashed="yes">
 <attribute name="NAME" x="95.25" y="-95.631" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-5" x="96.52" y="-99.06" smashed="yes">
+<instance part="POTS6" gate="-5" x="96.52" y="-99.06" smashed="yes">
 <attribute name="NAME" x="95.25" y="-98.171" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-6" x="96.52" y="-101.6" smashed="yes">
+<instance part="POTS6" gate="-6" x="96.52" y="-101.6" smashed="yes">
 <attribute name="NAME" x="95.25" y="-100.711" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-7" x="96.52" y="-104.14" smashed="yes">
+<instance part="POTS6" gate="-7" x="96.52" y="-104.14" smashed="yes">
 <attribute name="NAME" x="95.25" y="-103.251" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-8" x="96.52" y="-106.68" smashed="yes">
+<instance part="POTS6" gate="-8" x="96.52" y="-106.68" smashed="yes">
 <attribute name="NAME" x="95.25" y="-105.791" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-9" x="96.52" y="-109.22" smashed="yes">
+<instance part="POTS6" gate="-9" x="96.52" y="-109.22" smashed="yes">
 <attribute name="NAME" x="95.25" y="-108.331" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS9" gate="-10" x="96.52" y="-111.76" smashed="yes">
+<instance part="POTS6" gate="-10" x="96.52" y="-111.76" smashed="yes">
 <attribute name="NAME" x="95.25" y="-110.871" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND22" gate="1" x="101.6" y="-114.3" smashed="yes">
@@ -1435,34 +1437,34 @@ Probably just ground inhibit at least.</text>
 <instance part="P+26" gate="1" x="167.64" y="-142.24" smashed="yes">
 <attribute name="VALUE" x="170.18" y="-139.7" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-1" x="96.52" y="-132.08" smashed="yes">
+<instance part="POTS7" gate="-1" x="96.52" y="-132.08" smashed="yes">
 <attribute name="NAME" x="95.25" y="-131.191" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-2" x="96.52" y="-134.62" smashed="yes">
+<instance part="POTS7" gate="-2" x="96.52" y="-134.62" smashed="yes">
 <attribute name="NAME" x="95.25" y="-133.731" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-3" x="96.52" y="-137.16" smashed="yes">
+<instance part="POTS7" gate="-3" x="96.52" y="-137.16" smashed="yes">
 <attribute name="NAME" x="95.25" y="-136.271" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-4" x="96.52" y="-139.7" smashed="yes">
+<instance part="POTS7" gate="-4" x="96.52" y="-139.7" smashed="yes">
 <attribute name="NAME" x="95.25" y="-138.811" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-5" x="96.52" y="-142.24" smashed="yes">
+<instance part="POTS7" gate="-5" x="96.52" y="-142.24" smashed="yes">
 <attribute name="NAME" x="95.25" y="-141.351" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-6" x="96.52" y="-144.78" smashed="yes">
+<instance part="POTS7" gate="-6" x="96.52" y="-144.78" smashed="yes">
 <attribute name="NAME" x="95.25" y="-143.891" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-7" x="96.52" y="-147.32" smashed="yes">
+<instance part="POTS7" gate="-7" x="96.52" y="-147.32" smashed="yes">
 <attribute name="NAME" x="95.25" y="-146.431" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-8" x="96.52" y="-149.86" smashed="yes">
+<instance part="POTS7" gate="-8" x="96.52" y="-149.86" smashed="yes">
 <attribute name="NAME" x="95.25" y="-148.971" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-9" x="96.52" y="-152.4" smashed="yes">
+<instance part="POTS7" gate="-9" x="96.52" y="-152.4" smashed="yes">
 <attribute name="NAME" x="95.25" y="-151.511" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POTS11" gate="-10" x="96.52" y="-154.94" smashed="yes">
+<instance part="POTS7" gate="-10" x="96.52" y="-154.94" smashed="yes">
 <attribute name="NAME" x="95.25" y="-154.051" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND26" gate="1" x="101.6" y="-157.48" smashed="yes">
@@ -1634,8 +1636,8 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-15.24"/>
 </segment>
 <segment>
-<pinref part="POTS2" gate="-2" pin="KL"/>
-<pinref part="POTS2" gate="-1" pin="KL"/>
+<pinref part="POTS0" gate="-2" pin="KL"/>
+<pinref part="POTS0" gate="-1" pin="KL"/>
 <wire x1="7.62" y1="-5.08" x2="7.62" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="P+8" gate="1" pin="+5V"/>
 <junction x="7.62" y="-2.54"/>
@@ -1649,8 +1651,8 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-58.42"/>
 </segment>
 <segment>
-<pinref part="POTS4" gate="-2" pin="KL"/>
-<pinref part="POTS4" gate="-1" pin="KL"/>
+<pinref part="POTS1" gate="-2" pin="KL"/>
+<pinref part="POTS1" gate="-1" pin="KL"/>
 <wire x1="7.62" y1="-48.26" x2="7.62" y2="-45.72" width="0.1524" layer="91"/>
 <pinref part="P+13" gate="1" pin="+5V"/>
 <junction x="7.62" y="-45.72"/>
@@ -1664,8 +1666,8 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-101.6"/>
 </segment>
 <segment>
-<pinref part="POTS6" gate="-2" pin="KL"/>
-<pinref part="POTS6" gate="-1" pin="KL"/>
+<pinref part="POTS2" gate="-2" pin="KL"/>
+<pinref part="POTS2" gate="-1" pin="KL"/>
 <wire x1="7.62" y1="-91.44" x2="7.62" y2="-88.9" width="0.1524" layer="91"/>
 <pinref part="P+17" gate="1" pin="+5V"/>
 <junction x="7.62" y="-88.9"/>
@@ -1679,8 +1681,8 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-144.78"/>
 </segment>
 <segment>
-<pinref part="POTS8" gate="-2" pin="KL"/>
-<pinref part="POTS8" gate="-1" pin="KL"/>
+<pinref part="POTS3" gate="-2" pin="KL"/>
+<pinref part="POTS3" gate="-1" pin="KL"/>
 <wire x1="7.62" y1="-134.62" x2="7.62" y2="-132.08" width="0.1524" layer="91"/>
 <pinref part="P+21" gate="1" pin="+5V"/>
 <junction x="7.62" y="-132.08"/>
@@ -1694,8 +1696,8 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-15.24"/>
 </segment>
 <segment>
-<pinref part="POTS3" gate="-2" pin="KL"/>
-<pinref part="POTS3" gate="-1" pin="KL"/>
+<pinref part="POTS4" gate="-2" pin="KL"/>
+<pinref part="POTS4" gate="-1" pin="KL"/>
 <wire x1="101.6" y1="-5.08" x2="101.6" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="P+11" gate="1" pin="+5V"/>
 <junction x="101.6" y="-2.54"/>
@@ -1724,8 +1726,8 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-101.6"/>
 </segment>
 <segment>
-<pinref part="POTS9" gate="-2" pin="KL"/>
-<pinref part="POTS9" gate="-1" pin="KL"/>
+<pinref part="POTS6" gate="-2" pin="KL"/>
+<pinref part="POTS6" gate="-1" pin="KL"/>
 <wire x1="101.6" y1="-91.44" x2="101.6" y2="-88.9" width="0.1524" layer="91"/>
 <pinref part="P+23" gate="1" pin="+5V"/>
 <junction x="101.6" y="-88.9"/>
@@ -1739,8 +1741,8 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-144.78"/>
 </segment>
 <segment>
-<pinref part="POTS11" gate="-2" pin="KL"/>
-<pinref part="POTS11" gate="-1" pin="KL"/>
+<pinref part="POTS7" gate="-2" pin="KL"/>
+<pinref part="POTS7" gate="-1" pin="KL"/>
 <wire x1="101.6" y1="-134.62" x2="101.6" y2="-132.08" width="0.1524" layer="91"/>
 <pinref part="P+27" gate="1" pin="+5V"/>
 <junction x="101.6" y="-132.08"/>
@@ -1797,9 +1799,9 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-30.48"/>
 </segment>
 <segment>
-<pinref part="POTS2" gate="-10" pin="KL"/>
+<pinref part="POTS0" gate="-10" pin="KL"/>
 <pinref part="GND7" gate="1" pin="GND"/>
-<pinref part="POTS2" gate="-9" pin="KL"/>
+<pinref part="POTS0" gate="-9" pin="KL"/>
 <wire x1="7.62" y1="-25.4" x2="7.62" y2="-22.86" width="0.1524" layer="91"/>
 <junction x="7.62" y="-25.4"/>
 </segment>
@@ -1815,9 +1817,9 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-73.66"/>
 </segment>
 <segment>
-<pinref part="POTS4" gate="-10" pin="KL"/>
+<pinref part="POTS1" gate="-10" pin="KL"/>
 <pinref part="GND11" gate="1" pin="GND"/>
-<pinref part="POTS4" gate="-9" pin="KL"/>
+<pinref part="POTS1" gate="-9" pin="KL"/>
 <wire x1="7.62" y1="-68.58" x2="7.62" y2="-66.04" width="0.1524" layer="91"/>
 <junction x="7.62" y="-68.58"/>
 </segment>
@@ -1833,9 +1835,9 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-116.84"/>
 </segment>
 <segment>
-<pinref part="POTS6" gate="-10" pin="KL"/>
+<pinref part="POTS2" gate="-10" pin="KL"/>
 <pinref part="GND16" gate="1" pin="GND"/>
-<pinref part="POTS6" gate="-9" pin="KL"/>
+<pinref part="POTS2" gate="-9" pin="KL"/>
 <wire x1="7.62" y1="-111.76" x2="7.62" y2="-109.22" width="0.1524" layer="91"/>
 <junction x="7.62" y="-111.76"/>
 </segment>
@@ -1851,9 +1853,9 @@ Probably just ground inhibit at least.</text>
 <junction x="73.66" y="-160.02"/>
 </segment>
 <segment>
-<pinref part="POTS8" gate="-10" pin="KL"/>
+<pinref part="POTS3" gate="-10" pin="KL"/>
 <pinref part="GND20" gate="1" pin="GND"/>
-<pinref part="POTS8" gate="-9" pin="KL"/>
+<pinref part="POTS3" gate="-9" pin="KL"/>
 <wire x1="7.62" y1="-154.94" x2="7.62" y2="-152.4" width="0.1524" layer="91"/>
 <junction x="7.62" y="-154.94"/>
 </segment>
@@ -1869,9 +1871,9 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-30.48"/>
 </segment>
 <segment>
-<pinref part="POTS3" gate="-10" pin="KL"/>
+<pinref part="POTS4" gate="-10" pin="KL"/>
 <pinref part="GND9" gate="1" pin="GND"/>
-<pinref part="POTS3" gate="-9" pin="KL"/>
+<pinref part="POTS4" gate="-9" pin="KL"/>
 <wire x1="101.6" y1="-25.4" x2="101.6" y2="-22.86" width="0.1524" layer="91"/>
 <junction x="101.6" y="-25.4"/>
 </segment>
@@ -1905,9 +1907,9 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-116.84"/>
 </segment>
 <segment>
-<pinref part="POTS9" gate="-10" pin="KL"/>
+<pinref part="POTS6" gate="-10" pin="KL"/>
 <pinref part="GND22" gate="1" pin="GND"/>
-<pinref part="POTS9" gate="-9" pin="KL"/>
+<pinref part="POTS6" gate="-9" pin="KL"/>
 <wire x1="101.6" y1="-111.76" x2="101.6" y2="-109.22" width="0.1524" layer="91"/>
 <junction x="101.6" y="-111.76"/>
 </segment>
@@ -1923,9 +1925,9 @@ Probably just ground inhibit at least.</text>
 <junction x="167.64" y="-160.02"/>
 </segment>
 <segment>
-<pinref part="POTS11" gate="-10" pin="KL"/>
+<pinref part="POTS7" gate="-10" pin="KL"/>
 <pinref part="GND26" gate="1" pin="GND"/>
-<pinref part="POTS11" gate="-9" pin="KL"/>
+<pinref part="POTS7" gate="-9" pin="KL"/>
 <wire x1="101.6" y1="-154.94" x2="101.6" y2="-152.4" width="0.1524" layer="91"/>
 <junction x="101.6" y="-154.94"/>
 </segment>
@@ -2206,7 +2208,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X0"/>
 <wire x1="25.4" y1="-7.62" x2="7.62" y2="-7.62" width="0.1524" layer="91"/>
 <label x="7.62" y="-7.62" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-3" pin="KL"/>
+<pinref part="POTS0" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT1" class="0">
@@ -2214,7 +2216,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X1"/>
 <wire x1="25.4" y1="-10.16" x2="7.62" y2="-10.16" width="0.1524" layer="91"/>
 <label x="7.62" y="-10.16" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-4" pin="KL"/>
+<pinref part="POTS0" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT2" class="0">
@@ -2222,7 +2224,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X2"/>
 <wire x1="25.4" y1="-12.7" x2="7.62" y2="-12.7" width="0.1524" layer="91"/>
 <label x="7.62" y="-12.7" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-5" pin="KL"/>
+<pinref part="POTS0" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT3" class="0">
@@ -2230,7 +2232,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X3"/>
 <wire x1="25.4" y1="-15.24" x2="7.62" y2="-15.24" width="0.1524" layer="91"/>
 <label x="7.62" y="-15.24" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-6" pin="KL"/>
+<pinref part="POTS0" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT4" class="0">
@@ -2238,7 +2240,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X4"/>
 <wire x1="25.4" y1="-17.78" x2="7.62" y2="-17.78" width="0.1524" layer="91"/>
 <label x="7.62" y="-17.78" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-7" pin="KL"/>
+<pinref part="POTS0" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT5" class="0">
@@ -2246,7 +2248,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC4" gate="A" pin="X5"/>
 <wire x1="25.4" y1="-20.32" x2="7.62" y2="-20.32" width="0.1524" layer="91"/>
 <label x="7.62" y="-20.32" size="1.778" layer="95"/>
-<pinref part="POTS2" gate="-8" pin="KL"/>
+<pinref part="POTS0" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="POT6" class="0">
@@ -2254,7 +2256,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X0"/>
 <wire x1="25.4" y1="-50.8" x2="7.62" y2="-50.8" width="0.1524" layer="91"/>
 <label x="7.62" y="-50.8" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-3" pin="KL"/>
+<pinref part="POTS1" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT7" class="0">
@@ -2262,7 +2264,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X1"/>
 <wire x1="25.4" y1="-53.34" x2="7.62" y2="-53.34" width="0.1524" layer="91"/>
 <label x="7.62" y="-53.34" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-4" pin="KL"/>
+<pinref part="POTS1" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT8" class="0">
@@ -2270,7 +2272,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X2"/>
 <wire x1="25.4" y1="-55.88" x2="7.62" y2="-55.88" width="0.1524" layer="91"/>
 <label x="7.62" y="-55.88" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-5" pin="KL"/>
+<pinref part="POTS1" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT9" class="0">
@@ -2278,7 +2280,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X3"/>
 <wire x1="25.4" y1="-58.42" x2="7.62" y2="-58.42" width="0.1524" layer="91"/>
 <label x="7.62" y="-58.42" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-6" pin="KL"/>
+<pinref part="POTS1" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT10" class="0">
@@ -2286,7 +2288,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X4"/>
 <wire x1="25.4" y1="-60.96" x2="7.62" y2="-60.96" width="0.1524" layer="91"/>
 <label x="7.62" y="-60.96" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-7" pin="KL"/>
+<pinref part="POTS1" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT11" class="0">
@@ -2294,7 +2296,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC6" gate="A" pin="X5"/>
 <wire x1="25.4" y1="-63.5" x2="7.62" y2="-63.5" width="0.1524" layer="91"/>
 <label x="7.62" y="-63.5" size="1.778" layer="95"/>
-<pinref part="POTS4" gate="-8" pin="KL"/>
+<pinref part="POTS1" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="POT12" class="0">
@@ -2302,7 +2304,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X0"/>
 <wire x1="25.4" y1="-93.98" x2="7.62" y2="-93.98" width="0.1524" layer="91"/>
 <label x="7.62" y="-93.98" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-3" pin="KL"/>
+<pinref part="POTS2" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT13" class="0">
@@ -2310,7 +2312,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X1"/>
 <wire x1="25.4" y1="-96.52" x2="7.62" y2="-96.52" width="0.1524" layer="91"/>
 <label x="7.62" y="-96.52" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-4" pin="KL"/>
+<pinref part="POTS2" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT14" class="0">
@@ -2318,7 +2320,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X2"/>
 <wire x1="25.4" y1="-99.06" x2="7.62" y2="-99.06" width="0.1524" layer="91"/>
 <label x="7.62" y="-99.06" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-5" pin="KL"/>
+<pinref part="POTS2" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT15" class="0">
@@ -2326,7 +2328,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X3"/>
 <wire x1="25.4" y1="-101.6" x2="7.62" y2="-101.6" width="0.1524" layer="91"/>
 <label x="7.62" y="-101.6" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-6" pin="KL"/>
+<pinref part="POTS2" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT16" class="0">
@@ -2334,7 +2336,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X4"/>
 <wire x1="25.4" y1="-104.14" x2="7.62" y2="-104.14" width="0.1524" layer="91"/>
 <label x="7.62" y="-104.14" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-7" pin="KL"/>
+<pinref part="POTS2" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT17" class="0">
@@ -2342,7 +2344,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC8" gate="A" pin="X5"/>
 <wire x1="25.4" y1="-106.68" x2="7.62" y2="-106.68" width="0.1524" layer="91"/>
 <label x="7.62" y="-106.68" size="1.778" layer="95"/>
-<pinref part="POTS6" gate="-8" pin="KL"/>
+<pinref part="POTS2" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="POT18" class="0">
@@ -2350,7 +2352,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X0"/>
 <wire x1="25.4" y1="-137.16" x2="7.62" y2="-137.16" width="0.1524" layer="91"/>
 <label x="7.62" y="-137.16" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-3" pin="KL"/>
+<pinref part="POTS3" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT19" class="0">
@@ -2358,7 +2360,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X1"/>
 <wire x1="25.4" y1="-139.7" x2="7.62" y2="-139.7" width="0.1524" layer="91"/>
 <label x="7.62" y="-139.7" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-4" pin="KL"/>
+<pinref part="POTS3" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT20" class="0">
@@ -2366,7 +2368,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X2"/>
 <wire x1="25.4" y1="-142.24" x2="7.62" y2="-142.24" width="0.1524" layer="91"/>
 <label x="7.62" y="-142.24" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-5" pin="KL"/>
+<pinref part="POTS3" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT21" class="0">
@@ -2374,7 +2376,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X3"/>
 <wire x1="25.4" y1="-144.78" x2="7.62" y2="-144.78" width="0.1524" layer="91"/>
 <label x="7.62" y="-144.78" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-6" pin="KL"/>
+<pinref part="POTS3" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT22" class="0">
@@ -2382,7 +2384,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X4"/>
 <wire x1="25.4" y1="-147.32" x2="7.62" y2="-147.32" width="0.1524" layer="91"/>
 <label x="7.62" y="-147.32" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-7" pin="KL"/>
+<pinref part="POTS3" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT23" class="0">
@@ -2390,7 +2392,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC10" gate="A" pin="X5"/>
 <wire x1="25.4" y1="-149.86" x2="7.62" y2="-149.86" width="0.1524" layer="91"/>
 <label x="7.62" y="-149.86" size="1.778" layer="95"/>
-<pinref part="POTS8" gate="-8" pin="KL"/>
+<pinref part="POTS3" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="ROW4" class="0">
@@ -2410,7 +2412,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X0"/>
 <wire x1="119.38" y1="-7.62" x2="101.6" y2="-7.62" width="0.1524" layer="91"/>
 <label x="101.6" y="-7.62" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-3" pin="KL"/>
+<pinref part="POTS4" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT25" class="0">
@@ -2418,7 +2420,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X1"/>
 <wire x1="119.38" y1="-10.16" x2="101.6" y2="-10.16" width="0.1524" layer="91"/>
 <label x="101.6" y="-10.16" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-4" pin="KL"/>
+<pinref part="POTS4" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT26" class="0">
@@ -2426,7 +2428,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X2"/>
 <wire x1="119.38" y1="-12.7" x2="101.6" y2="-12.7" width="0.1524" layer="91"/>
 <label x="101.6" y="-12.7" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-5" pin="KL"/>
+<pinref part="POTS4" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT27" class="0">
@@ -2434,7 +2436,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X3"/>
 <wire x1="119.38" y1="-15.24" x2="101.6" y2="-15.24" width="0.1524" layer="91"/>
 <label x="101.6" y="-15.24" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-6" pin="KL"/>
+<pinref part="POTS4" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT28" class="0">
@@ -2442,7 +2444,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X4"/>
 <wire x1="119.38" y1="-17.78" x2="101.6" y2="-17.78" width="0.1524" layer="91"/>
 <label x="101.6" y="-17.78" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-7" pin="KL"/>
+<pinref part="POTS4" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT29" class="0">
@@ -2450,7 +2452,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC5" gate="A" pin="X5"/>
 <wire x1="119.38" y1="-20.32" x2="101.6" y2="-20.32" width="0.1524" layer="91"/>
 <label x="101.6" y="-20.32" size="1.778" layer="95"/>
-<pinref part="POTS3" gate="-8" pin="KL"/>
+<pinref part="POTS4" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="ROW5" class="0">
@@ -2530,7 +2532,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X0"/>
 <wire x1="119.38" y1="-93.98" x2="101.6" y2="-93.98" width="0.1524" layer="91"/>
 <label x="101.6" y="-93.98" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-3" pin="KL"/>
+<pinref part="POTS6" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT37" class="0">
@@ -2538,7 +2540,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X1"/>
 <wire x1="119.38" y1="-96.52" x2="101.6" y2="-96.52" width="0.1524" layer="91"/>
 <label x="101.6" y="-96.52" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-4" pin="KL"/>
+<pinref part="POTS6" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT38" class="0">
@@ -2546,7 +2548,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X2"/>
 <wire x1="119.38" y1="-99.06" x2="101.6" y2="-99.06" width="0.1524" layer="91"/>
 <label x="101.6" y="-99.06" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-5" pin="KL"/>
+<pinref part="POTS6" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT39" class="0">
@@ -2554,7 +2556,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X3"/>
 <wire x1="119.38" y1="-101.6" x2="101.6" y2="-101.6" width="0.1524" layer="91"/>
 <label x="101.6" y="-101.6" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-6" pin="KL"/>
+<pinref part="POTS6" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT40" class="0">
@@ -2562,7 +2564,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X4"/>
 <wire x1="119.38" y1="-104.14" x2="101.6" y2="-104.14" width="0.1524" layer="91"/>
 <label x="101.6" y="-104.14" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-7" pin="KL"/>
+<pinref part="POTS6" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT41" class="0">
@@ -2570,7 +2572,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC11" gate="A" pin="X5"/>
 <wire x1="119.38" y1="-106.68" x2="101.6" y2="-106.68" width="0.1524" layer="91"/>
 <label x="101.6" y="-106.68" size="1.778" layer="95"/>
-<pinref part="POTS9" gate="-8" pin="KL"/>
+<pinref part="POTS6" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="ROW7" class="0">
@@ -2590,7 +2592,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X0"/>
 <wire x1="119.38" y1="-137.16" x2="101.6" y2="-137.16" width="0.1524" layer="91"/>
 <label x="101.6" y="-137.16" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-3" pin="KL"/>
+<pinref part="POTS7" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="POT43" class="0">
@@ -2598,7 +2600,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X1"/>
 <wire x1="119.38" y1="-139.7" x2="101.6" y2="-139.7" width="0.1524" layer="91"/>
 <label x="101.6" y="-139.7" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-4" pin="KL"/>
+<pinref part="POTS7" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="POT44" class="0">
@@ -2606,7 +2608,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X2"/>
 <wire x1="119.38" y1="-142.24" x2="101.6" y2="-142.24" width="0.1524" layer="91"/>
 <label x="101.6" y="-142.24" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-5" pin="KL"/>
+<pinref part="POTS7" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="POT45" class="0">
@@ -2614,7 +2616,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X3"/>
 <wire x1="119.38" y1="-144.78" x2="101.6" y2="-144.78" width="0.1524" layer="91"/>
 <label x="101.6" y="-144.78" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-6" pin="KL"/>
+<pinref part="POTS7" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="POT46" class="0">
@@ -2622,7 +2624,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X4"/>
 <wire x1="119.38" y1="-147.32" x2="101.6" y2="-147.32" width="0.1524" layer="91"/>
 <label x="101.6" y="-147.32" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-7" pin="KL"/>
+<pinref part="POTS7" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="POT47" class="0">
@@ -2630,7 +2632,7 @@ Probably just ground inhibit at least.</text>
 <pinref part="IC13" gate="A" pin="X5"/>
 <wire x1="119.38" y1="-149.86" x2="101.6" y2="-149.86" width="0.1524" layer="91"/>
 <label x="101.6" y="-149.86" size="1.778" layer="95"/>
-<pinref part="POTS11" gate="-8" pin="KL"/>
+<pinref part="POTS7" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="POT_VAL_CHAIN_1" class="0">
