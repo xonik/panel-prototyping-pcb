@@ -956,7 +956,7 @@ Based on the following sources:
 <part name="POTS7" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
-<part name="DATA_CHAIN" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
+<part name="CHAIN" library="joakim" deviceset="CONN-IDC-10P" device="S" package3d_urn="urn:adsk.eagle:package:5571/1"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="C1" library="joakim" deviceset="C-EU-J" device="0603" value="1uF"/>
@@ -1473,34 +1473,34 @@ TODO: Silk + screw holes</text>
 <instance part="P+27" gate="1" x="101.6" y="-129.54" smashed="yes">
 <attribute name="VALUE" x="104.14" y="-127" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-1" x="203.2" y="66.04" smashed="yes">
+<instance part="CHAIN" gate="-1" x="203.2" y="66.04" smashed="yes">
 <attribute name="NAME" x="201.93" y="66.929" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-2" x="203.2" y="63.5" smashed="yes">
+<instance part="CHAIN" gate="-2" x="203.2" y="63.5" smashed="yes">
 <attribute name="NAME" x="201.93" y="64.389" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-3" x="203.2" y="60.96" smashed="yes">
+<instance part="CHAIN" gate="-3" x="203.2" y="60.96" smashed="yes">
 <attribute name="NAME" x="201.93" y="61.849" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-4" x="203.2" y="58.42" smashed="yes">
+<instance part="CHAIN" gate="-4" x="203.2" y="58.42" smashed="yes">
 <attribute name="NAME" x="201.93" y="59.309" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-5" x="203.2" y="55.88" smashed="yes">
+<instance part="CHAIN" gate="-5" x="203.2" y="55.88" smashed="yes">
 <attribute name="NAME" x="201.93" y="56.769" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-6" x="203.2" y="53.34" smashed="yes">
+<instance part="CHAIN" gate="-6" x="203.2" y="53.34" smashed="yes">
 <attribute name="NAME" x="201.93" y="54.229" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-7" x="203.2" y="50.8" smashed="yes">
+<instance part="CHAIN" gate="-7" x="203.2" y="50.8" smashed="yes">
 <attribute name="NAME" x="201.93" y="51.689" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-8" x="203.2" y="48.26" smashed="yes">
+<instance part="CHAIN" gate="-8" x="203.2" y="48.26" smashed="yes">
 <attribute name="NAME" x="201.93" y="49.149" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-9" x="203.2" y="45.72" smashed="yes">
+<instance part="CHAIN" gate="-9" x="203.2" y="45.72" smashed="yes">
 <attribute name="NAME" x="201.93" y="46.609" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="DATA_CHAIN" gate="-10" x="203.2" y="43.18" smashed="yes">
+<instance part="CHAIN" gate="-10" x="203.2" y="43.18" smashed="yes">
 <attribute name="NAME" x="201.93" y="44.069" size="1.778" layer="95" rot="R180"/>
 </instance>
 <instance part="GND1" gate="1" x="220.98" y="33.02" smashed="yes">
@@ -1748,7 +1748,7 @@ TODO: Silk + screw holes</text>
 <junction x="101.6" y="-132.08"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-9" pin="KL"/>
+<pinref part="CHAIN" gate="-9" pin="KL"/>
 <wire x1="220.98" y1="38.1" x2="213.36" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="38.1" x2="213.36" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="45.72" x2="208.28" y2="45.72" width="0.1524" layer="91"/>
@@ -1932,7 +1932,7 @@ TODO: Silk + screw holes</text>
 <junction x="101.6" y="-154.94"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-10" pin="KL"/>
+<pinref part="CHAIN" gate="-10" pin="KL"/>
 <wire x1="208.28" y1="43.18" x2="210.82" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="43.18" x2="210.82" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="35.56" x2="220.98" y2="35.56" width="0.1524" layer="91"/>
@@ -1951,7 +1951,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="58.42" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-8" pin="KL"/>
+<pinref part="CHAIN" gate="-8" pin="KL"/>
 <wire x1="208.28" y1="48.26" x2="223.52" y2="48.26" width="0.1524" layer="91"/>
 <label x="210.82" y="48.26" size="1.778" layer="95"/>
 </segment>
@@ -1980,7 +1980,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-1" pin="KL"/>
+<pinref part="CHAIN" gate="-1" pin="KL"/>
 <wire x1="208.28" y1="66.04" x2="223.52" y2="66.04" width="0.1524" layer="91"/>
 <label x="210.82" y="66.04" size="1.778" layer="95"/>
 </segment>
@@ -2000,7 +2000,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="63.5" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-2" pin="KL"/>
+<pinref part="CHAIN" gate="-2" pin="KL"/>
 <wire x1="223.52" y1="63.5" x2="208.28" y2="63.5" width="0.1524" layer="91"/>
 <label x="210.82" y="63.5" size="1.778" layer="95"/>
 </segment>
@@ -2198,7 +2198,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-3" pin="KL"/>
+<pinref part="CHAIN" gate="-3" pin="KL"/>
 <wire x1="208.28" y1="60.96" x2="223.52" y2="60.96" width="0.1524" layer="91"/>
 <label x="210.82" y="60.96" size="1.778" layer="95"/>
 </segment>
@@ -2642,7 +2642,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="55.88" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-4" pin="KL"/>
+<pinref part="CHAIN" gate="-4" pin="KL"/>
 <wire x1="208.28" y1="58.42" x2="223.52" y2="58.42" width="0.1524" layer="91"/>
 <label x="210.82" y="58.42" size="1.778" layer="95"/>
 </segment>
@@ -2654,7 +2654,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="50.8" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-6" pin="KL"/>
+<pinref part="CHAIN" gate="-6" pin="KL"/>
 <wire x1="223.52" y1="53.34" x2="208.28" y2="53.34" width="0.1524" layer="91"/>
 <label x="210.82" y="53.34" size="1.778" layer="95"/>
 </segment>
@@ -2666,7 +2666,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="48.26" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-7" pin="KL"/>
+<pinref part="CHAIN" gate="-7" pin="KL"/>
 <wire x1="208.28" y1="50.8" x2="223.52" y2="50.8" width="0.1524" layer="91"/>
 <label x="210.82" y="50.8" size="1.778" layer="95"/>
 </segment>
@@ -2678,7 +2678,7 @@ TODO: Silk + screw holes</text>
 <label x="157.48" y="53.34" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="DATA_CHAIN" gate="-5" pin="KL"/>
+<pinref part="CHAIN" gate="-5" pin="KL"/>
 <wire x1="208.28" y1="55.88" x2="223.52" y2="55.88" width="0.1524" layer="91"/>
 <label x="210.82" y="55.88" size="1.778" layer="95"/>
 </segment>
