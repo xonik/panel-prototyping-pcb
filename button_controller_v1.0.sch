@@ -159,19 +159,19 @@
 <packages>
 <package name="CONN-IDC10P-S" urn="urn:adsk.eagle:footprint:5511/1" locally_modified="yes">
 <description>&lt;b&gt;10p IDC Header&lt;/b&gt; Straight&lt;p&gt;</description>
-<wire x1="-10" y1="4.2" x2="10" y2="4.2" width="0.2032" layer="21"/>
-<wire x1="10" y1="4.2" x2="10" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="10" y1="-4.2" x2="5.938" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="5.938" y1="-4.2" x2="5.938" y2="-3.9" width="0.2032" layer="21"/>
+<wire x1="-10.4" y1="4.45" x2="10.4" y2="4.45" width="0.2032" layer="21"/>
+<wire x1="10.4" y1="4.45" x2="10.4" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="10.4" y1="-4.45" x2="5.938" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="5.938" y1="-4.45" x2="5.938" y2="-3.9" width="0.2032" layer="21"/>
 <wire x1="5.938" y1="-3.9" x2="4.459" y2="-3.9" width="0.2032" layer="21"/>
-<wire x1="4.459" y1="-3.9" x2="4.459" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="4.459" y1="-4.2" x2="1.883" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="1.883" y1="-4.2" x2="1.883" y2="-2.65" width="0.2032" layer="21"/>
+<wire x1="4.459" y1="-3.9" x2="4.459" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="4.459" y1="-4.45" x2="1.883" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="1.883" y1="-4.45" x2="1.883" y2="-2.65" width="0.2032" layer="21"/>
 <wire x1="1.883" y1="-2.65" x2="-1.883" y2="-2.65" width="0.2032" layer="21"/>
-<wire x1="-1.883" y1="-2.65" x2="-1.883" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="1.883" y1="-4.2" x2="-1.883" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="-1.883" y1="-4.2" x2="-10" y2="-4.2" width="0.2032" layer="21"/>
-<wire x1="-10" y1="-4.2" x2="-10" y2="4.2" width="0.2032" layer="21"/>
+<wire x1="-1.883" y1="-2.65" x2="-1.883" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="1.883" y1="-4.45" x2="-1.883" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="-1.883" y1="-4.45" x2="-10.4" y2="-4.45" width="0.2032" layer="21"/>
+<wire x1="-10.4" y1="-4.45" x2="-10.4" y2="4.45" width="0.2032" layer="21"/>
 <wire x1="-8.875" y1="3.275" x2="8.875" y2="3.275" width="0.2032" layer="21"/>
 <wire x1="8.875" y1="3.275" x2="8.875" y2="-3.275" width="0.2032" layer="21"/>
 <wire x1="8.875" y1="-3.275" x2="1.883" y2="-3.275" width="0.2032" layer="21"/>
@@ -411,6 +411,84 @@ diameter 2 mm, horizontal, grid 7.62 mm</description>
 <rectangle x1="-1.143" y1="0.4318" x2="-0.762" y2="0.9398" layer="51"/>
 <rectangle x1="-0.1778" y1="-0.9398" x2="0.2032" y2="-0.4318" layer="51"/>
 </package>
+<package name="CONN-IDC10P-AN">
+<description>&lt;b&gt;10P IDC Header&lt;/b&gt; Right Angle&lt;p&gt;
+Silk on tDocu only</description>
+<wire x1="10" y1="1.875" x2="10" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="10" y1="11.075" x2="5.938" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="4.459" y1="11.075" x2="5.938" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="5.938" y1="11.075" x2="5.938" y2="10.105" width="0.2032" layer="51"/>
+<wire x1="5.938" y1="10.105" x2="4.459" y2="10.105" width="0.2032" layer="51"/>
+<wire x1="4.459" y1="10.105" x2="4.459" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="4.459" y1="11.075" x2="1.883" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="1.883" y1="11.075" x2="1.883" y2="4.01" width="0.2032" layer="51"/>
+<wire x1="1.883" y1="4.01" x2="-1.883" y2="4.01" width="0.2032" layer="51"/>
+<wire x1="-1.883" y1="4.01" x2="-1.883" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="1.883" y1="11.075" x2="-1.883" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="-1.883" y1="11.075" x2="-10" y2="11.075" width="0.2032" layer="51"/>
+<wire x1="-10" y1="11.075" x2="-10" y2="1.875" width="0.2032" layer="51"/>
+<wire x1="-6.456" y1="1.875" x2="-10" y2="1.875" width="0.2032" layer="51"/>
+<wire x1="6.439" y1="1.875" x2="-6.452" y2="1.875" width="0.2032" layer="51"/>
+<wire x1="10" y1="1.875" x2="6.443" y2="1.875" width="0.2032" layer="51"/>
+<pad name="1" x="-5.08" y="-1.27" drill="1" diameter="1.4224"/>
+<pad name="2" x="-5.08" y="1.27" drill="1" diameter="1.4224"/>
+<pad name="3" x="-2.54" y="-1.27" drill="1" diameter="1.4224"/>
+<pad name="4" x="-2.54" y="1.27" drill="1" diameter="1.4224"/>
+<pad name="5" x="0" y="-1.27" drill="1" diameter="1.4224"/>
+<pad name="6" x="0" y="1.27" drill="1" diameter="1.4224"/>
+<pad name="7" x="2.54" y="-1.27" drill="1" diameter="1.4224"/>
+<pad name="8" x="2.54" y="1.27" drill="1" diameter="1.4224"/>
+<pad name="9" x="5.08" y="-1.27" drill="1" diameter="1.4224"/>
+<pad name="10" x="5.08" y="1.27" drill="1" diameter="1.4224"/>
+<text x="-10.16" y="-3.81" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="51">
+<vertex x="-6.36" y="10.945"/>
+<vertex x="-3.81" y="10.945"/>
+<vertex x="-5.085" y="8.37"/>
+</polygon>
+</package>
+<package name="CONN-IDC10P-SMD">
+<description>&lt;b&gt;10p IDC Header&lt;/b&gt; Straight, SMD&lt;p&gt;
+
+&lt;b&gt;Sources:&lt;/b&gt;&lt;br&gt;
+https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_XFCN-BH254VS-10P_C492446.pdf&lt;br&gt;&lt;br&gt;
+https://www.lcsc.com/datasheet/lcsc_datasheet_2108191430_Ckmtw-Shenzhen-Cankemeng-B-3000N10P-0110_C383605.pdf
+&lt;br&gt;
+&lt;br&gt;
+C492446: BH254VS-10P&lt;br&gt;
+C383605: B-3000N10P-0110,</description>
+<wire x1="-10.35" y1="4.5" x2="10.35" y2="4.5" width="0.2032" layer="21"/>
+<wire x1="10.35" y1="4.5" x2="10.35" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="10.35" y1="-4.5" x2="5.938" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="5.938" y1="-4.5" x2="5.938" y2="-3.9" width="0.2032" layer="21"/>
+<wire x1="5.938" y1="-3.9" x2="4.459" y2="-3.9" width="0.2032" layer="21"/>
+<wire x1="4.459" y1="-3.9" x2="4.459" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="4.459" y1="-4.5" x2="1.883" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="1.883" y1="-4.5" x2="1.883" y2="-2.65" width="0.2032" layer="21"/>
+<wire x1="1.883" y1="-2.65" x2="-1.883" y2="-2.65" width="0.2032" layer="21"/>
+<wire x1="-1.883" y1="-2.65" x2="-1.883" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="1.883" y1="-4.5" x2="-1.883" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="-1.883" y1="-4.5" x2="-10.35" y2="-4.5" width="0.2032" layer="21"/>
+<wire x1="-10.35" y1="-4.5" x2="-10.35" y2="4.5" width="0.2032" layer="21"/>
+<wire x1="-8.875" y1="3.275" x2="8.875" y2="3.275" width="0.2032" layer="21"/>
+<wire x1="8.875" y1="3.275" x2="8.875" y2="-3.275" width="0.2032" layer="21"/>
+<wire x1="8.875" y1="-3.275" x2="1.883" y2="-3.275" width="0.2032" layer="21"/>
+<wire x1="-1.883" y1="-3.275" x2="-8.875" y2="-3.275" width="0.2032" layer="21"/>
+<wire x1="-8.875" y1="-3.275" x2="-8.875" y2="3.275" width="0.2032" layer="21"/>
+<text x="-10.16" y="4.572" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="4.572" size="1.27" layer="27">&gt;VALUE</text>
+<smd name="P$1" x="-5.08" y="-3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$2" x="-5.08" y="3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$3" x="-2.54" y="-3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$4" x="-2.54" y="3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$5" x="0" y="-3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$6" x="0" y="3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$7" x="2.54" y="-3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$8" x="2.54" y="3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$9" x="5.08" y="-3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+<smd name="P$10" x="5.08" y="3.3" dx="1.02" dy="4.2" layer="1" rot="R180"/>
+</package>
 </packages>
 <packages3d>
 <package3d name="PAK100/2500-10" urn="urn:adsk.eagle:package:5571/1" type="box">
@@ -538,6 +616,40 @@ Source: 3M</description>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
 <attribute name="POPULARITY" value="1" constant="no"/>
 </technology>
+</technologies>
+</device>
+<device name="AN" package="CONN-IDC10P-AN">
+<connects>
+<connect gate="-1" pin="KL" pad="1"/>
+<connect gate="-10" pin="KL" pad="10"/>
+<connect gate="-2" pin="KL" pad="2"/>
+<connect gate="-3" pin="KL" pad="3"/>
+<connect gate="-4" pin="KL" pad="4"/>
+<connect gate="-5" pin="KL" pad="5"/>
+<connect gate="-6" pin="KL" pad="6"/>
+<connect gate="-7" pin="KL" pad="7"/>
+<connect gate="-8" pin="KL" pad="8"/>
+<connect gate="-9" pin="KL" pad="9"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="SMD" package="CONN-IDC10P-SMD">
+<connects>
+<connect gate="-1" pin="KL" pad="P$1"/>
+<connect gate="-10" pin="KL" pad="P$10"/>
+<connect gate="-2" pin="KL" pad="P$2"/>
+<connect gate="-3" pin="KL" pad="P$3"/>
+<connect gate="-4" pin="KL" pad="P$4"/>
+<connect gate="-5" pin="KL" pad="P$5"/>
+<connect gate="-6" pin="KL" pad="P$6"/>
+<connect gate="-7" pin="KL" pad="P$7"/>
+<connect gate="-8" pin="KL" pad="P$8"/>
+<connect gate="-9" pin="KL" pad="P$9"/>
+</connects>
+<technologies>
+<technology name=""/>
 </technologies>
 </device>
 </devices>
